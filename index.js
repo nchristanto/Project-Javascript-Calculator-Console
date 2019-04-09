@@ -17,10 +17,10 @@ console.log(resultDivision)
 const resultExponential = digitA ** digitC
 console.log(resultExponential)
 
-console.log(100/5)
-console.log(2**5)
-console.log(Math.ceil(100/3))
+console.log(100 / 5)
+console.log(2 ** 5)
+console.log(Math.ceil(100 / 3))
 
-const resultMathfloor = Math.floor(digitA / digitB)
-console.log(resultMathfloor)
+const resultMathFloor = Math.floor(digitA / digitB)
+console.log(resultMathFloor)
 
